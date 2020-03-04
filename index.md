@@ -16,7 +16,7 @@
   </style>
 </head>
 <body>
-<canvas width="725" height="585" id="game"></canvas>
+<canvas width="700" height="585" id="game"></canvas>
 <script>
 const canvas = document.getElementById('game');
 const context = canvas.getContext('2d');
